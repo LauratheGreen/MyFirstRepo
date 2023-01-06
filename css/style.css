@@ -1,0 +1,10 @@
+body {
+background-color: #f0f0f0;
+}
+.book {
+    display:block;
+    background-color:#aecbd2;
+    border: solid 1px #000;
+    margin-bottom:20px;
+    padding: 5px;
+}
