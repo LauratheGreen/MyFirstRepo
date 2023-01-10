@@ -1,10 +1,19 @@
 body {
 background-color: #f0f0f0;
 }
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+}
 .book {
-    display:block;
     background-color:#aecbd2;
     border: solid 1px #000;
     margin-bottom:20px;
     padding: 5px;
+}
+.leftside {
+    flex-grow: 1;
+}
+.rightside {
+    flex-grow: 2;
 }
