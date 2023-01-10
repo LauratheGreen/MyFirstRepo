@@ -10,6 +10,7 @@ background-color: #f0f0f0;
     border: solid 1px #000;
     margin-bottom:20px;
     padding: 5px;
+    width: 400px;
 }
 .leftside {
     flex-grow: 1;
